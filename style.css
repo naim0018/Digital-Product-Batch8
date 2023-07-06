@@ -26,3 +26,12 @@
     padding: 5px;
     font-size: 18px;
 }
+.container{
+ display: flex;
+ height: 100vh;
+ background-image: url(./images/background.png);
+ background-color:black;
+}
+.banner-img img{
+    width: 300px;
+}
